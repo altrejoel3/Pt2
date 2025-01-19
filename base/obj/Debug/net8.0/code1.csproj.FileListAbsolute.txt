@@ -1,0 +1,28 @@
+C:\Users\Marc\Downloads\M08\5. Git\code1\bin\Debug\net8.0\code1.exe
+C:\Users\Marc\Downloads\M08\5. Git\code1\bin\Debug\net8.0\code1.deps.json
+C:\Users\Marc\Downloads\M08\5. Git\code1\bin\Debug\net8.0\code1.runtimeconfig.json
+C:\Users\Marc\Downloads\M08\5. Git\code1\bin\Debug\net8.0\code1.dll
+C:\Users\Marc\Downloads\M08\5. Git\code1\bin\Debug\net8.0\code1.pdb
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\code1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\code1.AssemblyInfoInputs.cache
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\code1.AssemblyInfo.cs
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\code1.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\code1.dll
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\refint\code1.dll
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\code1.pdb
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\code1.genruntimeconfig.cache
+C:\Users\Marc\Downloads\M08\5. Git\code1\obj\Debug\net8.0\ref\code1.dll
+C:\Users\joel\Desktop\base\bin\Debug\net8.0\code1.exe
+C:\Users\joel\Desktop\base\bin\Debug\net8.0\code1.deps.json
+C:\Users\joel\Desktop\base\bin\Debug\net8.0\code1.runtimeconfig.json
+C:\Users\joel\Desktop\base\bin\Debug\net8.0\code1.dll
+C:\Users\joel\Desktop\base\bin\Debug\net8.0\code1.pdb
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\code1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\code1.AssemblyInfoInputs.cache
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\code1.AssemblyInfo.cs
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\code1.csproj.CoreCompileInputs.cache
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\code1.dll
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\refint\code1.dll
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\code1.pdb
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\code1.genruntimeconfig.cache
+C:\Users\joel\Desktop\base\obj\Debug\net8.0\ref\code1.dll
