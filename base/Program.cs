@@ -9,13 +9,16 @@ class Program
         List<Vaixell> vaixells = new List<Vaixell>
         {
             new Vaixell("Explorer", "OceanX", 2015, 45, 12000),
-            new Vaixell("Voyager", "BlueWave", 2020, 60, 15000)
+            new Vaixell("Voyager", "BlueWave", 2020, 60, 15000),
+            new Vaixell("Destructor","Acer",2021,23,20000),
+            new Vaixell("Portavions","Acer",2025,21,2000)
         };
 
         List<Cotxe> cotxes = new List<Cotxe>
         {
             new Cotxe("Model S", "Tesla", 2022, 250, 4),
-            new Cotxe("Civic", "Honda", 2019, 220, 4)
+            new Cotxe("Civic", "Honda", 2019, 220, 4),
+            new Cotxe("BIO23","Vil",2023,200,4)
         };
 
         List<Camio> camions = new List<Camio>
